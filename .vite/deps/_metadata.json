@@ -1,0 +1,127 @@
+{
+  "hash": "65c81a94",
+  "configHash": "a54be186",
+  "lockfileHash": "769de165",
+  "browserHash": "0c88f72b",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7d6e9b40",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b182db18",
+      "needsInterop": true
+    },
+    "leva": {
+      "src": "../../node_modules/leva/dist/leva.esm.js",
+      "file": "leva.js",
+      "fileHash": "5b34b67d",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "0e0a61cc",
+      "needsInterop": false
+    },
+    "react-responsive": {
+      "src": "../../node_modules/react-responsive/dist/esm/index.js",
+      "file": "react-responsive.js",
+      "fileHash": "61ef6748",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "9768d6df",
+      "needsInterop": false
+    },
+    "@emailjs/browser": {
+      "src": "../../node_modules/@emailjs/browser/es/index.js",
+      "file": "@emailjs_browser.js",
+      "fileHash": "7ec2e6e0",
+      "needsInterop": false
+    },
+    "react-globe.gl": {
+      "src": "../../node_modules/react-globe.gl/dist/react-globe.gl.mjs",
+      "file": "react-globe__gl.js",
+      "fileHash": "864b439c",
+      "needsInterop": false
+    },
+    "gsap": {
+      "src": "../../node_modules/gsap/index.js",
+      "file": "gsap.js",
+      "fileHash": "2a1916be",
+      "needsInterop": false
+    },
+    "@gsap/react": {
+      "src": "../../node_modules/@gsap/react/src/index.js",
+      "file": "@gsap_react.js",
+      "fileHash": "9f3f83ca",
+      "needsInterop": false
+    },
+    "maath": {
+      "src": "../../node_modules/maath/dist/maath.esm.js",
+      "file": "maath.js",
+      "fileHash": "88b9ea07",
+      "needsInterop": false
+    },
+    "three-stdlib": {
+      "src": "../../node_modules/three-stdlib/index.js",
+      "file": "three-stdlib.js",
+      "fileHash": "7adf16a7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-LB2R3FI5": {
+      "file": "chunk-LB2R3FI5.js"
+    },
+    "hls-YU2LW3WX": {
+      "file": "hls-YU2LW3WX.js"
+    },
+    "vision_bundle-DIJDKRYK": {
+      "file": "vision_bundle-DIJDKRYK.js"
+    },
+    "chunk-6DR4JPS3": {
+      "file": "chunk-6DR4JPS3.js"
+    },
+    "chunk-YYT7WYPS": {
+      "file": "chunk-YYT7WYPS.js"
+    },
+    "chunk-FRJ3JFGW": {
+      "file": "chunk-FRJ3JFGW.js"
+    },
+    "chunk-G5VPHJEA": {
+      "file": "chunk-G5VPHJEA.js"
+    },
+    "chunk-TNTPHDQH": {
+      "file": "chunk-TNTPHDQH.js"
+    },
+    "chunk-S5YBPEJY": {
+      "file": "chunk-S5YBPEJY.js"
+    },
+    "chunk-P3FZBFBN": {
+      "file": "chunk-P3FZBFBN.js"
+    },
+    "chunk-HQ6ZTAWL": {
+      "file": "chunk-HQ6ZTAWL.js"
+    },
+    "chunk-UYZSYZSL": {
+      "file": "chunk-UYZSYZSL.js"
+    },
+    "chunk-X3MDYGI3": {
+      "file": "chunk-X3MDYGI3.js"
+    },
+    "chunk-32E4H3EV": {
+      "file": "chunk-32E4H3EV.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
